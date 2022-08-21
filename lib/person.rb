@@ -1,14 +1,14 @@
 class Person
     
   attr_accessor :name
-  attr_accessor :job
+  attr_accessor :james
 
   def name=(name)
       @name = name
   end
 
-  def job=(job)
-      @job = job
+  def james=(james)
+      @james = james
   end
 
 
